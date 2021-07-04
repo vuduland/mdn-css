@@ -1,0 +1,37 @@
+h1 {
+  color: red;
+}
+
+p,
+li {
+  color: black;
+}
+
+li {
+  color: purple;
+  list-style-type: armenian;
+}
+
+.special {
+  font-weight: bold;
+}
+li.special {
+  color: saddlebrown;
+}
+
+span {
+  color: slategrey;
+}
+
+li em {
+  color: blue;
+}
+
+h1 + p {
+  font-size: 150%;
+}
+
+p span {
+  color: red;
+}
+
